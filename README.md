@@ -1,5 +1,8 @@
 # CDMA_modem_2user_image_input
 Code for CDMA transmission and reception for 2 users (image transmission)
+
+
+
 ALGORITHM USED
 1.	Took different images as input 1 and input 2.
 2.	These images where then resized and reshaped suitably.
