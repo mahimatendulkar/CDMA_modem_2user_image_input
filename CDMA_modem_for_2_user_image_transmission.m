@@ -1,6 +1,6 @@
 function cdmamodem(user1,user2,snr_in_dbs)
 % >>>multiple access b/w 2 users using DS CDMA
-%% code by MAHIMA S. TENDULKAR
+%% code by MAHIMA S. TENDULKAR and SUKKHADA JOSHII
 %snr_in_dbs=-50
 
 close all
